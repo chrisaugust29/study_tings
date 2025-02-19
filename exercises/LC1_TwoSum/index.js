@@ -9,5 +9,4 @@
 function twoSum(arr, target) {}
 
 
-adwa
 module.exports = twoSum;
