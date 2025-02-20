@@ -1,3 +1,7 @@
-const reverseList = head => {};
+const reverseList = head => {
+console.log(this.head)
+}
+
+
 
 module.exports = reverseList;
