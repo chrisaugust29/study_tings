@@ -1,6 +1,5 @@
 const reverseList = head => {
 
 }   
-s   module
-
+test
 module.exports = reverseList;
