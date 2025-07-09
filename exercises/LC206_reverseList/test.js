@@ -9,5 +9,5 @@ test("reverses the list", () => {
   expect(bNode.next).toEqual(head);
   expect(head.next).toEqual(null);
 
-  s
+  
 });
