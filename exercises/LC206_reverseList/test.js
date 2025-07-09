@@ -8,4 +8,6 @@ test("reverses the list", () => {
   expect(reverseList(head)).toEqual(bNode);
   expect(bNode.next).toEqual(head);
   expect(head.next).toEqual(null);
+
+  s
 });
