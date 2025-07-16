@@ -5,6 +5,9 @@ test("reverses the list", () => {
   const bNode = { val: "B", next: null };
   head.next = bNode;
 
+
+  rest
+
   expect(reverseList(head)).toEqual(bNode);
   expect(bNode.next).toEqual(head);
   expect(head.next).toEqual(null)
